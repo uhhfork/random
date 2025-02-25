@@ -9,3 +9,5 @@ random script that i made for livingblu's game :33
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/heads/main/what.luau"))()
 ```
+## view at
+rscript: https://rscripts.net/script/shooting-stuff-jTeJ
