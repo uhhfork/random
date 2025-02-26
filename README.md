@@ -24,6 +24,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/he
 loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/heads/main/freerobux.luau"))()
 ```
 ## view at
-### shooting stuff
-- rscripts: https://rscripts.net/script/shooting-stuff-jTeJ
-- scriptblox: https://scriptblox.com/script/MM2-Aim-Trainer-Shooting-Stuff-30310
+### rscripts.net
+- shooting stuff: https://rscripts.net/script/shooting-stuff-jTeJ
+### scriptblox.com
+- shooting stuff: https://scriptblox.com/script/MM2-Aim-Trainer-Shooting-Stuff-30310
