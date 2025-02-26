@@ -10,5 +10,5 @@ random script that i made for livingblu's game :33
 loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/heads/main/what.luau"))()
 ```
 ## view at
-rscripts: https://rscripts.net/script/shooting-stuff-jTeJ
-scriptblox: https://scriptblox.com/script/MM2-Aim-Trainer-Shooting-Stuff-30310
+- rscripts: https://rscripts.net/script/shooting-stuff-jTeJ
+- scriptblox: https://scriptblox.com/script/MM2-Aim-Trainer-Shooting-Stuff-30310
