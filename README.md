@@ -1,5 +1,8 @@
 # random
 random script that i made for livingblu's game :33
+## changelog
+* shooting stuff:
+  - remove the detecting due to the fact that i cant script that shit :33
 ## support game
 - mm2 aim trainer
 - mm2 duels
