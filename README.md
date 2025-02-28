@@ -26,5 +26,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/he
 ## view at
 ### rscripts.net
 - shooting stuff: https://rscripts.net/script/shooting-stuff-jTeJ
+- frwee emotes: https://rscripts.net/script/frwee-emotes-DA8c
 ### scriptblox.com
 - shooting stuff: https://scriptblox.com/script/MM2-Aim-Trainer-Shooting-Stuff-30310
