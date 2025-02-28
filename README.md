@@ -29,3 +29,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/he
 - frwee emotes: https://rscripts.net/script/frwee-emotes-DA8c
 ### scriptblox.com
 - shooting stuff: https://scriptblox.com/script/MM2-Aim-Trainer-Shooting-Stuff-30310
+- frwee emotes: https://scriptblox.com/script/MM2-Aim-Trainer-frwee-emotes-30618
