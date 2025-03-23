@@ -2,7 +2,7 @@
 random script that i made for livingblu's game :33
 ## changelog
 ### shooting stuff
-  - remove the detecting due to the fact that i cant script that shit :33
+- improve some stuff
 ### frwee emotes
 - release
 ## support game
