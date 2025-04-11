@@ -5,6 +5,8 @@ random script that i made for livingblu's game :33
 - improve some stuff
 ### frwee emotes
 - release
+### bomb flood
+- release
 ## support game
 ### shooting stuff
 - mm2 aim trainer
@@ -14,6 +16,8 @@ random script that i made for livingblu's game :33
 ### frwee emotes
 - mm2 aim trainer
 - mm2 duels (not sure)
+### bomb flood
+- mm2 aim trainer
 ## loadstring
 ### shooting stuff
 ```luau
@@ -22,6 +26,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/he
 ### frwee emotes
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/heads/main/freerobux.luau"))()
+```
+### bomb flood
+```luau
+getgenv().vector3 = Vector3.new(0, 0, 0)
+getgenv().delay = 0
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/heads/main/ifloodyourhousewithbomb.luau"))()
 ```
 ## view at
 ### rscripts.net
