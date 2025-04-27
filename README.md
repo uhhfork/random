@@ -21,18 +21,23 @@ random script that i made for livingblu's game :33
 ## loadstring
 ### shooting stuff
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/heads/main/what.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhhfork/random/main/what.luau"))()
 ```
 ### frwee emotes
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/heads/main/freerobux.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhhfork/random/main/freerobux.luau"))()
 ```
 ### bomb flood
 ```luau
+-- [[
+you could change the fire position and fire bomb delay by adjusting those settings below :3
+]]
+
+-- settings
 getgenv().vector3 = Vector3.new(0, 0, 0)
 getgenv().delay = 0
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/00nion/random/refs/heads/main/ifloodyourhousewithbomb.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhhfork/random/main/ifloodyourhousewithbomb.luau"))()
 ```
 ## view at
 ### rscripts.net
