@@ -30,8 +30,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/uhhfork/random/main/f
 ### bomb flood
 ```luau
 -- [[
-you could change the fire position and fire bomb delay by adjusting those settings below :3
-]]
+you could change the fire position and fire bomb delay by adjusting those settings below :3 ]]
 
 -- settings
 getgenv().vector3 = Vector3.new(0, 0, 0)
